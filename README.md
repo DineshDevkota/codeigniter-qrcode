@@ -1,5 +1,5 @@
 # Qrcode API based on Codeigniter.
-
+Demo:[a link](http://qrcode.dineshdevkota.com)
 
 `Returns png and HTML. Still in development.`
 
